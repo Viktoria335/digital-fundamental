@@ -1,5 +1,5 @@
 # repository for enlightenment
-Учебный репозиторий для хранения заданий по основам цифровых технологий. 
-Санкт-Петербургский политехнический университет.
-Студент : Думова Виктория Александровна
-1 курс, "Биоинженерия и биоинформатика"
+A digital-based educational repository for storing assignments.
+Saint Petersburg Polytechnic University.
+Student: Victoria Dumova
+First-year student, Bioengineering and Bioinformatics
